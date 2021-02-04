@@ -1,4 +1,4 @@
-function add(a, b)
+function add(b, c)
 {
     var sum = a + b;
     var sumR = "The  of " + a + "+" + b + "is " + "sum.";
